@@ -1,4 +1,4 @@
 #!/bin/bash
-su chown betty
+su betty
 
 
