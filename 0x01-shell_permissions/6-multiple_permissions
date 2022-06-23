@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 chomd u+x g+x o+r hello
